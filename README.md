@@ -1,10 +1,13 @@
 
-<h1 align="center">cutlery-dining-experience</h1>
+<h1 align="center">Cutlery Dining Experience</h1>
+
+<p align="center">
+  <img src="https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/ef019823-0815-4aa1-aaec-fba0c9b3243c" alt="Screenshot">
+</p>
 
 The "cutlery-dining-experience" repository encapsulates the digital heart of Cutlery, a distinguished restaurant offering a blend of culinary expertise and technological innovation. This comprehensive codebase comprises the entire backend and frontend architecture of our website, meticulously crafted to provide visitors with an immersive and seamless dining encounter.
 
 
-![Logo](https://classroomclipart.com/image/static7/preview2/kitchen-utensils-black-outline-clip-art-61689.jpg)
 
 ## Installation ![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)
 
@@ -26,7 +29,15 @@ To set up the "cutlery-dining-experience" project, follow these steps:
 
 ## Screenshots ![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2023-09-19 043526](https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/fefed6f7-1cac-41dc-987e-fcb1197140aa)
+![Screenshot 2023-09-19 043553](https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/efb07e9b-e203-457f-86ce-b9904521e87f)
+![Screenshot 2023-09-19 043637](https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/f17273e6-f71e-4369-a354-8b9a1e909d5e)
+![Screenshot 2023-09-19 043648](https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/8b8de9f7-7efb-4c50-80b0-06d60e27e218)
+![Screenshot 2023-09-19 043714](https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/2bd2362b-c1b2-470f-b869-894cc842db27)
+![Screenshot 2023-09-19 043743](https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/8066304a-9d50-44f3-a456-2f433e37058a)
+![Screenshot 2023-09-19 043618](https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/dd24a4c7-75fc-4385-b699-97cb37e2a2bd)
+![Screenshot 2023-09-19 043755](https://github.com/Stranger-Block/cutlery-dining-experience/assets/141111315/a621c880-e887-452c-bbaa-787c5fa37c5e)
+
 
 
 ## Run Locally ![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)
