@@ -11,17 +11,29 @@ The "cutlery-dining-experience" repository encapsulates the digital heart of Cut
 
 ## Installation ![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)
 
-To set up the "cutlery-dining-experience" project, follow these steps:
+To set up the "cutlery-dining-experience" project
 
 1. Clone the repository to your local machine using the following command:
 
    ```bash
    git clone https://github.com/your-username/cutlery-dining-experience.git
+
+## Azure Technologies used for this project
+   1. Static Web Apps (for deployment of the website)
+   2. Visual Studio Code (for development of the website)
+   
 ## Tech Stack ![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)
 
 - **HTML:** Used for creating the structure and content of web pages.
 - **CSS:** Responsible for styling and visually enhancing the web pages.
 - **JavaScript:** Implemented for dynamic and interactive elements on the website.
+
+
+## important links
+
+--> Project Link (GitHub repository URL) : - https://github.com/Stranger-Block/cutlery-dining-experience <br>
+--> Project Demo URL : -  <br>
+--> Project Demo Video URL : - 
 
 
 
